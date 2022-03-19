@@ -5,7 +5,30 @@
 
 # Bank_App
 
-A new Flutter project.
+A new Flutter project � Ui
+
+with a lot of Animation ... 
+
+ Rate me ⭐
+
+Thank you ☺
+
+
+## Platform
+
+Android ✔️
+
+Ios ✔️
+
+
+
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
+
 
 ## Getting Started
 
