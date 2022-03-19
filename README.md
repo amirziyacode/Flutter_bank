@@ -21,7 +21,7 @@ Thank you ☺
 
 |               DarkMode               |              LightMode               |
 | :----------------------------------: | :----------------------------------: |
-| ![d](https://s6.uupload.ir/files/dark_eeko.gif) | ![w](https://s6.uupload.ir/files/white_nl38.gif) |
+| ![d](https://s6.uupload.ir/files/dark_eeko.gif) | ![w](https://s6.uupload.ir/files/bank_flutter_jhca.png) |
 
 
 ## Platform
