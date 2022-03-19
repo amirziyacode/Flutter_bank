@@ -21,7 +21,7 @@ Thank you ☺
 
 |               Preview                |               UI App                 |
 | :----------------------------------: | :----------------------------------: |
-| ![d](https://s6.uupload.ir/files/dark_eeko.gif) | ![w](https://s6.uupload.ir/files/bank_flutter_jhca.png) |
+| ![d](https://s6.uupload.ir/files/ezgif.com-gif-maker_pk9f.gif) | ![w](https://s6.uupload.ir/files/bank_flutter_jhca.png) |
 
 
 ## Platform
