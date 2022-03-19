@@ -16,11 +16,20 @@ with a lot of Animation ...
 Thank you ☺
 
 
+
+### ✌&ensp;Preview
+
+|               DarkMode               |              LightMode               |
+| :----------------------------------: | :----------------------------------: |
+| ![d](https://s6.uupload.ir/files/dark_eeko.gif) | ![w](https://s6.uupload.ir/files/white_nl38.gif) |
+
+
 ## Platform
 
 Android ✔️
 
 Ios ✔️
+
 
 
 
