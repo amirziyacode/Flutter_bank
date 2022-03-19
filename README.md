@@ -1,4 +1,9 @@
-# bank
+![TODO](https://www.sketchappsources.com/resources/source-image/banking-app-colder.png)
+[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/amirziyacode)
+[![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
+
+
+# Bank_App
 
 A new Flutter project.
 
