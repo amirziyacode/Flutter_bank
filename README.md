@@ -7,7 +7,7 @@
 
 A new Flutter project 😁 
 
-Bank App UI :  [BAnk](https://dribbble.com/shots/13633745-Banking-app-NFC-payment)
+Bank App UI :  [Bank UI ✏](https://dribbble.com/shots/13633745-Banking-app-NFC-payment)
 
 with a lot of Animation ... 
 
